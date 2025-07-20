@@ -1,7 +1,7 @@
 # PinDrop
 Click on the map, it will give the exact location. 
 
-<h1>Key Feature</h1>
+<h2>Key Feature</h2>
 <ul>
     <li>Allows users to drop pin on the map</li>
     <li>Enter Remarks</li>
